@@ -1,9 +1,6 @@
-### 👋 Hi there, 
-
-# I'm Theo Iyonor 😎💻
-
-### A Vuejs Frontend Web Developer
-
+### 👋 Hello from:  
+### A Vuejs Frontend Web Developer,
+# Theo Iyonor 😎💻
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Reactjs
