@@ -1,6 +1,8 @@
-### 👋 Hi there, I'm Theo Iyonor 😎💻
+### 👋 Hi there, 
 
-I'm a front-end web developer with a solid grip of vuejs, nuxtjs, vuetify, bootstrap, javascript, css3 and html5
+# I'm Theo Iyonor 😎💻
+
+### A Vuejs Frontend Web Developer
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Reactjs
