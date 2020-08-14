@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm 
+### 👋 Hi there, I am
  
 Theo Iyonor 💻
 ==============
@@ -11,7 +11,7 @@ Frontend Web Developer (Vue)
         gender: "male", 
         code: [Javascript, HTML, CSS], 
         tools: [Vue, Vuetify, Nuxt, Bootstrap, Git], 
-        learning: "Reactjs"
+        learning: "Reactjs",
         interests: [
             football: {
                 club: "Chelsea FC",
