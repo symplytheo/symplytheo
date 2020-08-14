@@ -18,10 +18,8 @@ Frontend Web Developer (Vue)
                 player: {
                     club: "Mason Mount",
                     retired: "Frank Lampard",
-                    goat: "Lionel Messi",
-                }"Mason Mount",
-                favPlayer: "Eden Hazard",
-                RetiredPlayer: "Frank Lampard"
+                    goat: "Lionel Messi"
+                }
             },
             music: {
                 genre: ["Electronic Dance Music", "Pop", "Afro-pop"],
