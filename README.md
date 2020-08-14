@@ -10,9 +10,9 @@ Frontend Web Developer (Vue)
         fullname: "Theophilus Iyonor",
         gender: "male", 
         code: [Javascript, HTML, CSS], 
-        tools: [Vue, Vuex, Vuetify, Nuxt, Bootstrap], 
-        challenge: "I am doing #100DaysOfCode challenge, focused on React and Node"
-        otherInterests: [
+        tools: [Vue, Vuetify, Nuxt, Bootstrap, Git], 
+        learning: "Reactjs"
+        interests: [
             football: {
                 club: "Chelsea FC",
                 player: {
