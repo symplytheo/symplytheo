@@ -6,13 +6,28 @@ Theo Iyonor 💻
 Frontend Web Developer (Vue)
 ----------------------------
 
-### About Me 
-
-    const thai = { 
-        pronouns: "she" | "her", 
+    const theo = { 
+        fullname: "Theophilus Iyonor",
+        gender: "male", 
         code: [Javascript, HTML, CSS], 
         tools: [Vue, Vuex, Vuetify, Nuxt, Bootstrap], 
-        challenge: "I am doing #100DaysOfCode challenge, focused on React and Node" 
+        challenge: "I am doing #100DaysOfCode challenge, focused on React and Node"
+        otherInterests: [
+            football: {
+                club: "Chelsea FC",
+                player: {
+                    club: "Mason Mount",
+                    retired: "Frank Lampard",
+                    goat: "Lionel Messi",
+                }"Mason Mount",
+                favPlayer: "Eden Hazard",
+                RetiredPlayer: "Frank Lampard"
+            },
+            music: {
+                genre: ["Electronic Dance Music", "Pop", "Afro-pop"],
+                artistes: ["Marshmello", "Kizz Daniel", "Simi", "Nicki Minaj", "Halsey", "..."]
+            }
+        ] 
     }
 
 
