@@ -11,7 +11,7 @@ Frontend Web Developer (Vue)
         gender: "male", 
         code: [Javascript, HTML, CSS], 
         tools: [Vue, Vuetify, Nuxt, Bootstrap, Git], 
-        learning: "Reactjs",
+        learning: React,
         interests: [
             football: {
                 club: "Chelsea FC",
