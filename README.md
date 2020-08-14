@@ -9,7 +9,7 @@ Frontend Web Developer (Vue)
     const theo = { 
         fullname: "Theophilus Iyonor",
         gender: "male", 
-        code: [Javascript, HTML, CSS], 
+        code: [JavaScript, HTML, CSS], 
         tools: [Vue, Vuetify, Nuxt, Bootstrap, Git], 
         learning: React,
         interests: [
