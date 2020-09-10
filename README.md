@@ -10,20 +10,19 @@ Frontend Web Developer (Vue)
         fullname: "Theophilus Iyonor",
         gender: "male", 
         code: [JavaScript, HTML, CSS], 
-        tools: [Vue, Vuetify, Nuxt, Bootstrap, Git], 
-        learning: React,
+        tools: [Vue, Vuetify, Nuxt, Bootstrap, Git, Expressjs, MongoDB], 
+        learning: [React, Redux, Next],
         interests: [
             football: {
                 club: "Chelsea FC",
                 player: {
                     club: "Mason Mount",
-                    retired: "Frank Lampard",
-                    goat: "Lionel Messi"
+                    retired: "Frank Lampard"
                 }
             },
             music: {
-                genre: ["Electronic Dance Music", "Pop", "Afro-pop"],
-                artistes: ["Marshmello", "Kizz Daniel", "Simi", "Nicki Minaj", "Halsey", "..."]
+                genre: ["EDM", "Pop", "Afro-pop"],
+                artistes: ["Marshmello", "Avicii", "Zedd", "Kizz Daniel", "Simi", "Mayorkun", "Nicki Minaj", "Halsey", "..."]
             }
         ] 
     }
