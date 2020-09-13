@@ -5,7 +5,7 @@ Theo Iyonor 💻
 
 Frontend Web Developer (Vue)
 ----------------------------
-
+``` js
     const theo = { 
         fullname: "Theophilus Iyonor",
         gender: "male", 
@@ -27,7 +27,7 @@ Frontend Web Developer (Vue)
         ] 
     }
 
-
+```
 
 [![Theo's Github Stats](https://github-readme-stats.vercel.app/api?username=symplytheo&show_icons=true&hide_title=true)](https://github.com/symplytheo/github-readme-stats) [![Theo's Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs?username=symplytheo&layout=compact)](https://github.com/symplytheo/github-readme-stats)
 
