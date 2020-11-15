@@ -3,21 +3,22 @@
 Theo Iyonor 💻
 ==============
 
-Frontend Web Developer (Vue)
+Web Developer (MEVN stack)
 ----------------------------
 ``` js
     const theo = { 
         fullname: "Theophilus Iyonor",
         gender: "male", 
         code: [JavaScript, HTML, CSS], 
-        tools: [Vue, Vuetify, Nuxt, Bootstrap, Git, Expressjs, MongoDB], 
+        tools: [Vue, Vuetify, Nuxt, Bootstrap, Git, Nodejs, Expressjs, MongoDB], 
         learning: [React, Redux, Next],
         interests: [
             football: {
                 club: "Chelsea FC",
-                player: {
-                    club: "Mason Mount",
-                    retired: "Frank Lampard"
+                favoritePlayer: {
+                    club: "Hakim Ziyech",
+                    retired: "Frank Lampard",
+                    goat: "Cristiano Ronaldo"
                 }
             },
             music: {
