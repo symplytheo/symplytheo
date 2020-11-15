@@ -10,7 +10,7 @@ Web Developer (MEVN stack)
         fullname: "Theophilus Iyonor",
         gender: "male", 
         code: [JavaScript, HTML, CSS], 
-        tools: [Vue, Vuetify, Nuxt, Bootstrap, Git, Nodejs, Expressjs, MongoDB], 
+        tools: [Vue, Vuetify, Nuxt, Bootstrap, SCSS, LESS, Git, Nodejs, Expressjs, MongoDB], 
         learning: [React, Redux, Next],
         interests: [
             football: {
