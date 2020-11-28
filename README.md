@@ -12,13 +12,13 @@ Frontend Developer (Vue, React)
         code: [JavaScript, HTML, CSS], 
         tools: [Vue, React, SCSS, LESS, Git, Nodejs, MongoDB, Heroku, Vercel], 
         learning: ['GraphQL & Rest API', 'Apollo Server', Expressjs],
-        interests: [
+        interests: {
             football: "Chelsea FC",
             music: {
                 genre: ["EDM", "Pop", "Afro-pop"],
                 stan: ["Marshmello", "Nicki Minaj", "Kizz Daniel", "Simi", "Mayorkun"]
             }
-        ]
+        }
     }
 
 ```
