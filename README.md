@@ -7,7 +7,7 @@ Frontend Developer (Vue, React)
 ----------------------------
 ``` js
     const theo = { 
-        fullname: "Theophilus Iyonor",
+        fullName: "Theophilus Iyonor",
         gender: "male", 
         code: [JavaScript, HTML, CSS], 
         tools: [Vue, React, SCSS, LESS, Git, Nodejs, MongoDB, Heroku, Vercel], 
