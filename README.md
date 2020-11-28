@@ -3,29 +3,22 @@
 Theo Iyonor 💻
 ==============
 
-Web Developer (MEVN stack)
+Frontend Developer (Vue, React)
 ----------------------------
 ``` js
     const theo = { 
         fullname: "Theophilus Iyonor",
         gender: "male", 
         code: [JavaScript, HTML, CSS], 
-        tools: [Vue, Vuetify, Nuxt, Bootstrap, SCSS, LESS, Git, Nodejs, Expressjs, MongoDB], 
-        learning: [React, Redux, Next],
+        tools: [Vue, React, SCSS, LESS, Git, Nodejs, MongoDB, Heroku, Vercel], 
+        learning: ['GraphQL & Rest API', 'Apollo Server', Expressjs],
         interests: [
-            football: {
-                club: "Chelsea FC",
-                favoritePlayer: {
-                    club: "Hakim Ziyech",
-                    retired: "Frank Lampard",
-                    goat: "Cristiano Ronaldo"
-                }
-            },
+            football: "Chelsea FC",
             music: {
                 genre: ["EDM", "Pop", "Afro-pop"],
-                artistes: ["Marshmello", "Avicii", "Zedd", "Kizz Daniel", "Simi", "Mayorkun", "Nicki Minaj", "Halsey", "..."]
+                stan: ["Marshmello", "Nicki Minaj", "Kizz Daniel", "Simi", "Mayorkun"]
             }
-        ] 
+        ]
     }
 
 ```
