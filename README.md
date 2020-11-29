@@ -11,12 +11,12 @@ Frontend Developer (Vue, React)
         gender: "male", 
         code: [JavaScript, HTML, CSS], 
         tools: [Vue, React, SCSS, LESS, Git, Nodejs, MongoDB, Heroku, Vercel], 
-        learning: ['GraphQL & Rest API', 'Apollo Server', Expressjs],
+        learning: ["GraphQL & Rest API", "Apollo Server", Expressjs],
         interests: {
             football: "Chelsea FC",
             music: {
                 genre: ["EDM", "Pop", "Afro-pop"],
-                stan: ["Marshmello", "Nicki Minaj", "Kizz Daniel", "Simi", "Mayorkun"]
+                stans: ["Marshmello", "Nicki Minaj", "Kizz Daniel", "Simi", "Mayorkun"]
             }
         }
     }
