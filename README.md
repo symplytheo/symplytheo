@@ -1,17 +1,17 @@
 ### 👋 Hi there, I am
  
-Theo Iyonor 💻
-==============
+Theophilus Ojochegbe Iyonor 💻
+==============================
 
 Frontend Developer (Vue, React)
 ----------------------------
 ``` js
     const theo = { 
-        fullName: "Theophilus Iyonor",
+        fullName: "Theophilus Ojochegbe Iyonor",
         gender: "male", 
         code: [JavaScript, HTML, CSS], 
-        tools: [Vue, React, SCSS, LESS, Git, Nodejs, MongoDB, Heroku, Vercel], 
-        learning: [TypeScript, GraphQL, "Rest API", "Apollo Server", Expressjs],
+        tools: [Vue, React, TypeScript, SCSS, LESS, Git, Nodejs, MongoDB, Heroku, Vercel], 
+        learning: [ReactNative, GraphQL, RestAPI, ApolloServer, Expressjs],
         interests: {
             football: "Chelsea FC",
             music: {
