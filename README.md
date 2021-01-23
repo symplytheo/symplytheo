@@ -11,7 +11,7 @@ Frontend Developer (Vue, React)
         gender: "male", 
         code: [JavaScript, HTML, CSS], 
         tools: [Vue, React, TypeScript, SCSS, LESS, Git, Nodejs, MongoDB, Heroku, Vercel], 
-        learning: [ReactNative, GraphQL, RestAPI, ApolloServer, Expressjs],
+        learning: ["REST API", Expressjs, GraphQL, ApolloServer],
         interests: {
             football: "Chelsea FC",
             music: {
