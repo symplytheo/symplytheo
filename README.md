@@ -4,21 +4,15 @@ Theophilus Ojochegbe Iyonor 💻
 ==============================
 
 Frontend Developer (Vue, React)
-----------------------------
+--------------------------------
 ``` js
     const theo = { 
         fullName: "Theophilus Ojochegbe Iyonor",
-        gender: "male", 
+        gender: "male",
         code: [JavaScript, HTML, CSS], 
-        tools: [Vue, React, TypeScript, ReactNative, SCSS, LESS, Git, Nodejs, MongoDB, Heroku, Vercel], 
-        learning: [ReactNative, Flutter, "REST API", Expressjs, GraphQL, ApolloServer],
-        interests: {
-            football: "Chelsea FC",
-            music: {
-                genre: ["EDM", "Pop", "Afro-pop"],
-                stans: ["Marshmello", "Nicki Minaj", "Kizz Daniel", "Simi", "Mayorkun"]
-            }
-        }
+        tools: [Vue, React, SCSS, Git, Heroku, Vercel], 
+        learning: [ReactNative, Flutter, TypeScript, "REST API", GraphQL],
+        interests: ["football", "music"]
     }
 
 ```
