@@ -10,9 +10,9 @@ Frontend Developer (Vue, React)
         fullName: "Theophilus Ojochegbe Iyonor",
         gender: "male",
         code: [JavaScript, HTML, CSS], 
-        tools: [Vue, React, SCSS, Git, Heroku, Vercel], 
-        learning: [ReactNative, Flutter, TypeScript, "REST API", GraphQL],
-        interests: ["football", "music"]
+        tools: [Vue, React, SCSS, Git, Vercel, Netlify, AWS], 
+        learning: [ReactNative],
+        interests: ["Football", "Music"]
     }
 
 ```
