@@ -9,10 +9,12 @@ Frontend Developer (Vue, React)
     const theo = { 
         fullName: "Theophilus Ojochegbe Iyonor",
         gender: "male",
-        code: [JavaScript, HTML, CSS], 
-        tools: [Vue, React, SCSS, Git, Vercel, Netlify, AWS], 
-        learning: [ReactNative],
-        interests: ["Football", "Music"]
+        core: [JavaScript, HTML5, CSS3], 
+        framework: [Vue, React, Nextjs, Nuxtjs], 
+        styling: [SASS, 'CSS/SCSS Module', TailwindCSS, Bootstrap, MaterialUI, Vuetify],
+        deployment: [AWS, Vercel, Netlify],
+        learning: [ReactNative, Flutter, TypeScript],
+        interests: ["Football", "Music", ]
     }
 
 ```
