@@ -14,7 +14,7 @@ Frontend Developer (Vue, React)
         styling: [SASS, 'CSS/SCSS Module', TailwindCSS, Bootstrap, MaterialUI, Vuetify],
         deployment: [AWS, Vercel, Netlify],
         learning: [ReactNative, Flutter, TypeScript],
-        interests: ["Football", "Music", ]
+        interests: ["Football", "Music"]
     }
 
 ```
