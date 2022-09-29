@@ -10,10 +10,10 @@ Frontend Developer (Vue, React)
         fullName: "Theophilus Ojochegbe Iyonor",
         gender: "male",
         core: [JavaScript, HTML5, CSS3], 
-        framework: [Vue, React, Nextjs, Nuxtjs], 
+        framework: [Vue, React, Nextjs, Nuxtjs, ReactNative, ExpressJS], 
         styling: [SASS, 'CSS/SCSS Module', TailwindCSS, Bootstrap, MaterialUI, Vuetify],
         deployment: [AWS, Vercel, Netlify],
-        learning: [ReactNative, Flutter, TypeScript],
+        learning: [Flutter, TypeScript],
         interests: ["Football", "Music"]
     }
 
