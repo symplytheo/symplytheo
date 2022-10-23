@@ -3,7 +3,7 @@
 Theophilus Ojochegbe Iyonor 💻
 ==============================
 
-Frontend Developer (Vue, React)
+Software Developer (Vue, React, React Native)
 --------------------------------
 ``` js
     const theo = { 
