@@ -7,7 +7,7 @@ Software Developer (Vue, React, React Native)
 --------------------------------
 ``` js
     const theo = { 
-        fullName: "Theophilus Ojochegbe Iyonor",
+        fullname: "Theophilus Ojochegbe Iyonor",
         gender: "male",
         core: [JavaScript, HTML5, CSS3], 
         framework: [Vue, React, Nextjs, Nuxtjs, ReactNative, ExpressJS], 
