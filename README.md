@@ -9,12 +9,12 @@ Software Developer (Vue, React, React Native)
     const theo = { 
         fullname: "Theophilus Ojochegbe Iyonor",
         gender: "male",
-        core: [JavaScript, HTML5, CSS3], 
-        framework: [Vue, React, Nextjs, Nuxtjs, ReactNative, ExpressJS], 
+        core: [JavaScript, HTML5, CSS3, TypeScript], 
+        framework: [Vue, React, Nextjs, Nuxtjs, ReactNative, Node, ExpressJS, NestJS], 
         styling: [SASS, 'CSS/SCSS Module', TailwindCSS, Bootstrap, MaterialUI, Vuetify],
-        deployment: [AWS, Vercel, Netlify],
-        learning: [Flutter, TypeScript],
-        interests: ["Football", "Music"]
+        deployment: [AWS, Vercel, Netlify, DigitalOcean],
+        learning: [Flutter, Django],
+        interests: ["Football", "Music", "Hiking", "Reading"]
     }
 
 ```
